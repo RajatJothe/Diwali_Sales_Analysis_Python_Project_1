@@ -4,7 +4,7 @@
 
 - performed data cleaning and manipulation.
 
-- performed exploratory data analysis(EDA) using Pandas,Matplotlin and seaborn libraries.
+- performed exploratory data analysis(EDA) using Numpy,Pandas,Matplotlin and seaborn libraries.
 
 - improved customer experience by identifying potential customers across differnt states,occupation,gender and age groups.
 
